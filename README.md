@@ -21,5 +21,9 @@ To change the neural network parameters in the ```parameters.py``` the following
 
 * ```NUMBER_OF_NEURONS```: Indicates the number of neurons in each level of the Neural Network
 * ```NUMBER_OF_LEVELS```: Indicates how many hidden layers the Neural Network has.
-* ```MUTATE_AMOUNT```: Indicates the magnitude of the change every time the Neural Network mutates.
+* ```MUTATE_AMOUNT```: Indicates the magnitude of the change every time the Neural Network mutates.  
+  
+
+<img width="620" height="537" alt="image" src="https://github.com/user-attachments/assets/c9af42b8-77ff-4714-8dea-adb4e88282a9" />
+
 
